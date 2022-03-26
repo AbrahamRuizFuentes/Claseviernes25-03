@@ -1,0 +1,25 @@
+/*
+Autor: Abraham Ruiz
+Correo:
+-Vinculos y colores de fondo footer : #3b2211;
+-color de texto:#707070;
+*/
+
+html * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px; /*Tamaño de base*/
+    color: #707070; /*Color de base*/
+}
+h1 {font-size: 2em; /*2x15=30px*/
+    }
+h2 {font-size: 1.5em; /*1.5x15=22.5px*/
+    }
+h3 {font-size: 2em; /*1x15=15px*/
+    }
+p{line-height: 2em;
+}
